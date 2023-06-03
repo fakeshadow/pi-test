@@ -8,4 +8,6 @@ pi network 创建NFT demo.
     `npm install --global yarn`
 4. 运行demo:
 
+    `yarn install`
+    
     `yarn dev`
