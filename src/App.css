@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.wallet-info {
+  text-align: left;
+}
+
+.logout-button {
+  padding: 0.2rem;
+}
